@@ -2,7 +2,7 @@
 
 An end-to-end **Streamlit web application** that uses **AI embeddings** to evaluate how well a candidate’s resume matches a given job description.
 
-This project applies **Natural Language Processing (NLP)** and **semantic similarity** modeling to automate resume screening — a valuable use case for **AI Engineers** and **Data Scientists**.
+This project applies **Natural Language Processing (NLP)** and **semantic similarity** modeling to automate resume screening.
 
 ---
 
@@ -46,4 +46,5 @@ pip install -r requirements.txt
 
 # 4. Run the Streamlit app
 streamlit run app.py
+
 
